@@ -2,8 +2,10 @@
 
 Parameter Estimation is a branch of statistics that involves using sample data to estimate the parameters of a distribution.
 
-
-![image](https://github.com/SakshiGoyal001/ParameterEstimation/assets/100338507/52559df5-480a-47d2-a2cb-a89d20ff162d)
+# Parameter Estimation techniques
+- Method of Moments (MOM)
+- Maximum Likelihood Estimation (MLE)
+- Minimum Mean Square Error Estimation (MMSE)
 
 
 
